@@ -28,5 +28,4 @@ A repository is a large folder that stores all code that is being worked on. It 
 # Main Source:
 https://www.git-scm.com/
 # Alt Source:
-Google
-stackoverflow
+Google and stackoverflow
